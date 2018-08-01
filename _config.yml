@@ -16,10 +16,6 @@ social-github: parimaay # add your Github handle
 social-linkedin: parima-ayazi-7a5871a4 # add your Linkedin handle
 social-email: parimaayazi@gmail.com # add your Email address
 google-site-verification: s5uwUqn-pX6x2OFm0BGT0yVk-qWofdYbVs5qWV-mRoM
-analytics:
-  		provider: "google-universal"
-  	google:
- 	tracking_id: "UA-123172945-1"
 
 
 # Disqus
